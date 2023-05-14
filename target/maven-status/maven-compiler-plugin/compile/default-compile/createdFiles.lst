@@ -1,0 +1,6 @@
+com/miit/demo/configuration/AppConfig.class
+com/miit/demo/controller/LoginController.class
+com/miit/demo/DemoApplication.class
+com/miit/demo/repository/LoginRepository.class
+com/miit/demo/service/LoginService.class
+com/miit/demo/model/LoginDTO.class
